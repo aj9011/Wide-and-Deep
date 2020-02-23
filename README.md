@@ -1,4 +1,4 @@
-# Wide-and-Deep-Demand-Forecasting
+# Wide-and-Deep & Demand-Forecasting
 
 SK Telesis Project
 Sk 텔레시스에서 옥션같은 온라인 사이트에서 B2B로 다른 회사들한테 통신 자재를 팔음.
